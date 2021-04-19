@@ -1,0 +1,2 @@
+C:\Users\Eric\Documents\Visual Studio 2019\Classwork\Projects\Display A Cube\Debug\Display A Cube.exe
+C:\Users\Eric\Documents\Visual Studio 2019\Classwork\Projects\Display A Cube\Debug\Display A Cube.pdb
